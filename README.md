@@ -46,7 +46,7 @@ This is a **professional, modular, and production-ready** NixOS 25.05 configurat
 - ✅ AppArmor enabled for application sandboxing
 - ✅ Hardened Linux kernel (latest stable)
 - ✅ Firewall (firewalld) with strict rules
-- ✅ DNS over TLS: NextDNS (241198) → Quad9 → Cloudflare → Google
+- ✅ DNS over TLS: NextDNS (your ID) → Quad9 → Cloudflare → Google
 - ✅ No swap, no zram (24GB RAM is sufficient)
 - ✅ Secure boot ready (UEFI)
 
